@@ -25,6 +25,9 @@
 
 Chartokenizer is a Python package for basic character-level tokenization. It provides functionality to generate a character-to-index mapping for tokenizing strings at the character level. This can be useful in various natural language processing (NLP) tasks where text data needs to be preprocessed for analysis or modeling.
 
+## Author: Shashank Kanna R
+
+---
 ## 🚀 Benefits
 
 1. Generates a character-to-index mapping for tokenizing strings.
@@ -58,15 +61,20 @@ Chartokenizer is a Python package for basic character-level tokenization. It pro
 
 "hello" => tokenize => [68, 65, 72, 72, 75] => pad_sequence => [68, 65, 72, 72, 75, 0, 0, 0, 0, 0]
 ```
+---
 
 ## ⬇️ Installation
 
-You can install `chartokenizer` via pip:
+`chartokenizer` is available as a PyPi package<br>
+<br>
+<a href="https://pypi.org/project/chartokenizer/"><img src="https://img.shields.io/badge/PyPi-chartokenizer-2ea44f?style=for-the-badge&logo=PyPi&logoColor=white" alt="PyPi - chartokenizer"></a>
+
+You can install via pip:
 
 ```bash
 pip install chartokenizer
 ```
-
+---
 ## ✅ Usage
 
 [![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/usage.md "Go to project documentation")
@@ -89,17 +97,23 @@ text = tokenizer.detokenize(dictionary, tokens)
 
 For more detailed usage and options, refer to the [documentation](/docs/usage.md)
 
+---
+
 ## Contributing
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on [GitHub](https://github.com/MrTechyWorker/chartokenizer).
+
+---
 
 ## License
 
 Released under [Apache](/LICENSE) by [@MrTechyWorker](https://github.com/MrTechyWorker).
 
+---
+
 ## Acknowledgments
 
 - This package was inspired by the need for a simple and efficient character-level tokenizer in natural language processing tasks.
-
+---
 > Learn, Build, Develop !! 😉
 ---
