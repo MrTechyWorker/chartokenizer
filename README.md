@@ -37,7 +37,7 @@ tokens = tokenizer.tokenize(dictionary, "your_text_here")
 text = tokenizer.detokenize(dictionary, tokens)
 ```
 
-For more detailed usage and options, refer to the [documentation](https://github.com/your_username/chartokenizer/blob/main/docs/usage.md).
+For more detailed usage and options, refer to the [documentation](https://github.com/MrTechyWorker/chartokenizer/blob/main/docs/usage.md).
 
 ## Contributing
 
@@ -45,7 +45,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE](https://github.com/MrTechyWorker/chartokenizer/LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](https://github.com/MrTechyWorker/chartokenizer/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
