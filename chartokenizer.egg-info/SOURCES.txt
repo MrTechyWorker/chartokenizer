@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+chartokenizer/__init__.py
+chartokenizer/tokenizer.py
+chartokenizer.egg-info/PKG-INFO
+chartokenizer.egg-info/SOURCES.txt
+chartokenizer.egg-info/dependency_links.txt
+chartokenizer.egg-info/top_level.txt
+tests/test_tokenizer.py
