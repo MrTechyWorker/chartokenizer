@@ -2,7 +2,7 @@
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrTechyWorker/chartokenizer/blob/main/docs/logo.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrTechyWorker/chartokenizer/blob/main/docs/logo.png">
-    <img alt="Hashnode logo" src="https://github.com/MrTechyWorker/chartokenizer/blob/main/docs/logo.png" height="170">
+    <img alt="logo" src="https://github.com/MrTechyWorker/chartokenizer/blob/main/docs/logo.png" height="170">
     </picture>
 
 </p>
